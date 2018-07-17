@@ -1,0 +1,52 @@
+{
+  "berlin": [
+    {
+      "name": "Cocolo",
+      "address": "Paul-Lincke-Ufer 39-40, 10999 Berlin",
+      "ramenTypes": [ "shio", "tonkotsu", "wonton" ] 
+    },
+    {
+      "name": "Men Men Ramen House",
+      "address": "Weserstraße 16, 12047 Berlin",
+      "ramenTypes": [ "shio", "miso", "shoyu" ] 
+    },
+    {
+      "name": "Hako Ramen",
+      "address": "Boxhagener Str. 26, 10245 Berlin",
+      "ramenTypes": [ "shio", "miso", "shoyu", "tonkotsu", "tantan", "chashu men" ] 
+    },
+    {
+      "name": "Takumi Nine",
+      "address": "Chausseestraße 124, 10115 Berlin",
+      "ramenTypes": [ "miso", "shio", "shoyu" ] 
+    }
+  ],
+  "london": [
+    {
+      "name": "Ippudo",
+      "address": "3, Central Saint Giles Piazza, St Giles High St, London WC2H 8AG, UK",
+      "ramenTypes": [ "tonkotsu", "veggie", "shoyu" ] 
+    },
+    {
+      "name": "Kanada-Ya",
+      "address": [ "64 St Giles High St, London WC2H 8LE, UK", "3 Panton St, London SW1Y 4DL, UK"],
+      "ramenTypes": [ "tonkotsu", "yuzu", "tantan" ] 
+    },
+    {
+      "name": "Monohon Ramen",
+      "address": "102 Old St, London EC1V 9AY, UK",
+      "ramenTypes": [ "soba", "men", "tonkotsu" ] 
+    },
+    {
+      "name": "Tonkotsu",
+      "address": "4 Canvey St, London SE1 9AN, UK",
+      "ramenTypes": [ "chicken", "seafood", "tonkotsu" ] 
+    }
+  ],
+  "new york": [
+  ],
+  "vancouver": [
+  ],
+  "tokyo": [
+  ]
+}
